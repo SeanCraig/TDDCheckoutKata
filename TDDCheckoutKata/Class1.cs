@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TDDCheckoutKata
+﻿namespace TDDCheckoutKata
 {
-    public class Class1
+    public class ShoppingCart
     {
+        public static int Checkout(string basket)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }
